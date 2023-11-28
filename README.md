@@ -18,3 +18,12 @@ Tempat nyimpen codes yang penting-penting untuk kebutuhan konten.
 git clone https://github.com/tonjoo/WordPress-theme-from-scratch.git
 cd themes/WordPress-theme-from-scratch
 git log --oneline</pre>
+
+### Code untuk Button dan Backrgound
+<div style="border: 0; padding: 10px; border-radius: 5px; background-color: #2d1a61; ;text-align: left;">
+
+<img class="alignnone size-full wp-image-7365" src="https://pluginongkoskirim.com/wp-content/uploads/sites/3/2023/02/Copy-of-Feature-POK.jpg" alt="cek resi" width="1200" height="628" />
+<p style="text-align: center;"><span style="color: #2d1a61;"><strong>Lacak di mana paket</strong> JNE, POS, Tiki, JNT, Wahana, Lion Parcel, Sicepat, dll dengan mudah, akurat, dan gratis hanya di <strong>Plugin Ongkos Kirim!</strong></span></p>
+<p style="text-align: center;"><a href="https://pluginongkoskirim.com/cek-resi/" target="_blank" rel="noopener"><button style="background-color: orange; color: white; padding: 10px; border-radius: 10px; border-color: white;" type="button">Lacak Paketmu!</button></a></p>
+
+</div>
