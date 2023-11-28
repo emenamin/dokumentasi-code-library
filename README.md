@@ -27,3 +27,12 @@ git log --oneline</pre>
 <p style="text-align: center;"><a href="https://pluginongkoskirim.com/cek-resi/" target="_blank" rel="noopener"><button style="background-color: orange; color: white; padding: 10px; border-radius: 10px; border-color: white;" type="button">Lacak Paketmu!</button></a></p>
 
 </div>
+
+### Code untuk Popup text di image
+<!-- wp:image {"align":"center","id":21907,"sizeSlug":"large"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img class="wp-image-21907 aligncenter" src="https://tonjoo.com/wp-content/uploads/2021/07/website-ecommerce.png" alt="jasa pembuatan website toko online sebagai solusi bisnis online" width="553" height="422" />
+<figcaption><br /><br />Tahukah Anda?</figcaption>
+</figure>
+</div>
+<!-- /wp:quote -->
